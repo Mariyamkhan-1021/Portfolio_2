@@ -35,12 +35,13 @@ This repository showcases my learning journey, communication skills, and project
 - Basic Web Development Projects
 - Programming Practice
 
+## Contact
+
+GitHub: https://GitHub.com/Mariyamkhan-1021
+
 ## Thank You
 Thank you for visiting my portfolio!
 
 
 
-## Contact
-
-GitHub: https://GitHub.com/Mariyamkhan-1021
 
