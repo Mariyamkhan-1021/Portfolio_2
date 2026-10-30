@@ -38,12 +38,9 @@ This repository showcases my learning journey, communication skills, and project
 ## Thank You
 Thank you for visiting my portfolio!
 
-## EDUCATION 
-Bachelor of Technology - Computer Science
+
 
 ## Contact
 
 GitHub: https://GitHub.com/Mariyamkhan-1021
-## Learning Skills 
--Improve web development skills
--Learn version control 
+
